@@ -2,11 +2,11 @@
  
 #### Description:
  
-This was a week 4 assignment. It's just a PacMan type character going across the screen and back using setInterval.
+This project uses HTML and Javascrip and was a week 4 assignment. It's just a PacMan type character going across the screen and back using setInterval.
  
 #### Installation:
 
-I thought you could just copy the files into a folder on your device. Then, you drag the .html file and it into the url line. I cannot get that to work.
+You can just copy the files into a folder on your device. Then, you drag the .html file and it into the url line. Then, you can watch Pacman chop across the screen, hit the edge, come back, and repeat...until you are bored.
  
 #### Usage:
  
