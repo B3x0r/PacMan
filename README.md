@@ -3,6 +3,8 @@
 #### Description:
  
 This project uses HTML and Javascrip and was a week 4 assignment. It's just a PacMan type character going across the screen and back using setInterval.
+
+<img src= "PacMan1.png" width='200'/>
  
 #### Installation:
 
